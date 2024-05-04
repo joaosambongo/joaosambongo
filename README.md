@@ -2,19 +2,14 @@
 
 <p align="center">I ❤️ Sou o João Sambongo <br> Como programador sou apaixonado pelo desenvolvimento de software, tenho experiência com linguagens de programação e frameworks como C#, e frameworks como Aspnet Core MVC, Bootstrap e Entity Framework Core. Também tenho habilidade em trabalhar com bancos de dados como SQL Server.
 E tenho um conhecimento sólido de HTML5 e CSS3.
-
-Constantemente busco atualizar e aprimorar minhas habilidades técnicas através de cursos e treinamentos especializados. Meu objetivo é continuar crescendo como profissional, sempre em busca de soluções inovadoras e de alta qualidade. Estou preparado para enfrentar novos desafios e colaborar em projetos interessantes e desafiadores, contribuindo assim para o desenvolvimento tecnológico.
-.</p>&nbsp;
+</p>&nbsp;
  
  &nbsp;
  &nbsp;
-
-
-
+ 
 ## My Skills
 
 #### Main Stack:
-
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
