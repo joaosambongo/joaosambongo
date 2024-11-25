@@ -1,7 +1,7 @@
 
 
-<p align="center">I ❤️ Sou o João Sambongo <br> Como programador sou apaixonado pelo desenvolvimento de software, tenho experiência com linguagens de programação e frameworks como C#, e frameworks como Aspnet Core MVC, Bootstrap e Entity Framework Core. Também tenho habilidade em trabalhar com bancos de dados como SQL Server.
-E tenho um conhecimento sólido de HTML5 e CSS3.
+<p align="center">
+ Olá 👋! Meu nome é João Sambongo e bem-vindo ao meu GitHub! 👨‍🎓
 </p>&nbsp;
  
  &nbsp;
