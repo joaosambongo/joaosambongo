@@ -3,10 +3,6 @@
 <p align="center">
  Olá 👋! Meu nome é João Sambongo e bem-vindo ao meu GitHub! 👨‍🎓
 </p>&nbsp;
- 
- &nbsp;
- &nbsp;
- 
 ## My Skills
 
 #### Main Stack:
